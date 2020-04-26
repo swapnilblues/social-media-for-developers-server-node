@@ -4,7 +4,7 @@
 ## Instruction to run file
 1. Clone the repository
 1. Run `npm install`
-2. Run `npm start`
+2. Run `nodemon server`
 
 ## TODO
 CodeBook- A social media for developers. The web application offers developers view each other's profile, connect to each other,make trending psots and comment on posts.
