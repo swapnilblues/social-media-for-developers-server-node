@@ -11,7 +11,7 @@ CodeBook- A social media for developers. The web application offers developers v
 
 This project was part of our Web Devlopment course (CS5610) at Northeastern University. This repo contains the front-end code.
 
-We are using the GitHub API to get the public repositories of users.
+We are using the GitHub API to get the public repositories of users. The Github API too fetch a user profile and user details doesn't require a github token.
 
 ## Technologies used:
 * MongoDB
@@ -22,4 +22,9 @@ We are using the GitHub API to get the public repositories of users.
 ## Links: 
 * [Frontend Website](https://cs5610-wbdv-client-gp32.herokuapp.com/codebook-client/)
 * [Backend APIs](https://cs5610-wbdv-final-server.herokuapp.com/codebook) 
+
+## Authors: 
+[Swapnil](https://github.com/swapnilblues?tab=repositories/)
+[Anurag](https://github.com/Anurag26)
+[Sajag](https://github.com/sajagporwal)
     
